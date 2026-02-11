@@ -3,7 +3,7 @@ const path = require("path");
 const { calculateDistance } = require("../utils/geoUtils");
 
 const readJson = (fileName) => {
-  const filePath = path.join(__dirname, "..", "scripts", fileName);
+  const filePath = path.join(__dirname, "..", "scripts", fileName); // ❌ Pode falhar na Vercel
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 };
 

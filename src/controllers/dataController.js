@@ -3,7 +3,7 @@ const path = require("path");
 
 // Função auxiliar para ler os arquivos JSON
 const readJson = (fileName) => {
-  const filePath = path.join(__dirname, "..", "scripts", fileName);
+  const filePath = path.join(__dirname, "..", "scripts", fileName); // ❌ Pode falhar na Vercel
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 };
 

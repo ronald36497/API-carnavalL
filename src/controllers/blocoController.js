@@ -3,14 +3,9 @@ const path = require("path");
 const { calculateDistance } = require("../utils/geoUtils");
 
 const readJson = (fileName) => {
-  try {
-    const filePath = path.join(__dirname, "..", "scripts", fileName);
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (error) {
-    return [];
-  }
+  const filePath = path.join(__dirname, "..", "scripts", fileName); // ❌ Pode falhar na Vercel
+  return JSON.parse(fs.readFileSync(filePath, "utf8"));
 };
-
 const buscarProximos = (arquivo, lat, lng, limite = 3) => {
   const dados = readJson(arquivo);
   if (!dados.length) return [];
