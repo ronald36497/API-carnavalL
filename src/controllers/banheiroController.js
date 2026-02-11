@@ -1,17 +1,16 @@
-const fs = require("fs");
-const path = require("path");
 const { calculateDistance } = require("../utils/geoUtils");
 
-const readJson = (fileName) => {
-  const filePath = path.join(__dirname, "..", "scripts", fileName);
-  return JSON.parse(fs.readFileSync(filePath, "utf8"));
-};
+// --- AQUI ESTÁ A CORREÇÃO ---
+// Usando require, a Vercel inclui o arquivo no pacote final automaticamente.
+// Não precisamos mais de 'fs' ou 'path'.
+const banheirosData = require("../scripts/BanheiroRefinado.json");
 
 exports.getBanheiros = (req, res) => {
   try {
-    let banheiros = readJson("BanheiroRefinado.json");
+    // Criamos uma cópia para filtrar sem alterar o original
+    let banheiros = [...banheirosData];
 
-    // Pegamos os parâmetros, incluindo lat, lng e raio para geolocalização
+    // Pegamos os parâmetros da URL
     const { qtd_minima, data, lat, lng, raio } = req.query;
 
     // 1. Filtro de Proximidade (Geolocalização)
@@ -39,7 +38,7 @@ exports.getBanheiros = (req, res) => {
       banheiros = banheiros.filter((b) => b.quantidade >= parseInt(qtd_minima));
     }
 
-    // 3. Filtro por data
+    // 3. Filtro por data (visto que alguns são temporários)
     if (data) {
       banheiros = banheiros.filter(
         (b) => b.data_inicio === data || b.data_final === data,
