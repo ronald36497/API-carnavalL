@@ -1,0 +1,31 @@
+{
+  "name": "api-carnaval",
+  "version": "1.0.0",
+  "description": "API do Pula Zé - Carnaval 2026",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "importar": "node src/scripts/importarBlocos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "carnaval",
+    "api",
+    "react-native"
+  ],
+  "author": "Ronald Enrique",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "pg": "^8.18.0",
+    "proj4": "^2.20.2"
+  }
+}

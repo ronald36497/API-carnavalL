@@ -1,0 +1,4377 @@
+[
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.920280739193245,
+    "longitude": -43.928836119170235
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.918592319839814,
+    "longitude": -43.926044096201935
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.862568725549,
+    "longitude": -43.89019566810301
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.897874130078794,
+    "longitude": -44.02203385011402
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.844804796179773,
+    "longitude": -43.916499012325694
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.953720115141802,
+    "longitude": -43.94859944416798
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.915840668171253,
+    "longitude": -43.93193027450256
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.936081697067273,
+    "longitude": -43.93702954339091
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 3,
+    "latitude": -19.977239879535045,
+    "longitude": -44.02554913824121
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 4,
+    "latitude": -19.917526904296878,
+    "longitude": -43.93419230331225
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.914987241525044,
+    "longitude": -43.93054417764028
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.914987241525044,
+    "longitude": -43.93054417764028
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.917102999427797,
+    "longitude": -43.93124913779985
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.947128338113302,
+    "longitude": -43.939350556164804
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.94631986109777,
+    "longitude": -43.93767652553735
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 2,
+    "latitude": -19.916689548712178,
+    "longitude": -43.899624773949036
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 2,
+    "latitude": -19.913563835640524,
+    "longitude": -43.89722170295787
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.940936141007583,
+    "longitude": -43.94031195272544
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-02-01",
+    "quantidade": 5,
+    "latitude": -19.90176557512064,
+    "longitude": -43.93577058921027
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-02-01",
+    "quantidade": 5,
+    "latitude": -19.90176557512064,
+    "longitude": -43.93577058921027
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-02-01",
+    "quantidade": 5,
+    "latitude": -19.90176557512064,
+    "longitude": -43.93577058921027
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 4,
+    "latitude": -19.95708313645002,
+    "longitude": -43.933932361414186
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 5,
+    "latitude": -19.952751245855506,
+    "longitude": -43.932881479023834
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 8,
+    "latitude": -19.915816675665695,
+    "longitude": -43.93201249930365
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.88292406016106,
+    "longitude": -43.90977473143218
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.915506396061414,
+    "longitude": -43.91416881226389
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.894510844872524,
+    "longitude": -43.904400055116724
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 4,
+    "latitude": -19.910974215928675,
+    "longitude": -43.91160284144112
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 3,
+    "latitude": -19.824911251783064,
+    "longitude": -43.958325007714066
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.889612530270085,
+    "longitude": -43.92097160420309
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.933639163743877,
+    "longitude": -43.957550524074755
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.94401681911655,
+    "longitude": -43.97179626505861
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.923183493989193,
+    "longitude": -43.96810747448783
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.831758785875458,
+    "longitude": -43.94574026193752
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.86468952376034,
+    "longitude": -43.985404345351164
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.860994470905815,
+    "longitude": -43.98772773402695
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.940952177561666,
+    "longitude": -43.94449270339038
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 3,
+    "latitude": -19.94125092446335,
+    "longitude": -43.93707311520048
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 4,
+    "latitude": -19.943048090164773,
+    "longitude": -43.93915804021368
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.918523412138637,
+    "longitude": -43.92843075180856
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.919250705252644,
+    "longitude": -43.92946929543366
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.9175991796795,
+    "longitude": -43.9267102800045
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.93170824896009,
+    "longitude": -43.93481657973879
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.930750151473852,
+    "longitude": -43.934128785394265
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.95445307931066,
+    "longitude": -43.93442962862593
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.911340035234407,
+    "longitude": -43.974309835007034
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 2,
+    "latitude": -19.923732758764814,
+    "longitude": -43.9399580398201
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.92340364066029,
+    "longitude": -43.94487159722748
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.92340364066029,
+    "longitude": -43.94487159722748
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.92810197749736,
+    "longitude": -43.92803858459498
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 5,
+    "latitude": -19.917630939212106,
+    "longitude": -43.93422838719074
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.918735253068043,
+    "longitude": -43.914259978446125
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.917849210245077,
+    "longitude": -43.91834832618728
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 10,
+    "latitude": -19.898121381029654,
+    "longitude": -43.90669746551704
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.913872590010254,
+    "longitude": -43.910342334631636
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.807840400034316,
+    "longitude": -43.98040063631162
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.930586416549854,
+    "longitude": -43.97661307639786
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.96338052544027,
+    "longitude": -43.97942457859911
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.966036079415073,
+    "longitude": -43.98312078291086
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.962458289964164,
+    "longitude": -43.98530765013978
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 3,
+    "latitude": -19.9385456419615,
+    "longitude": -43.9918311956528
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.9385600265948,
+    "longitude": -43.99183435303781
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.916163653624412,
+    "longitude": -43.97550511992128
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 1,
+    "latitude": -19.918777751286903,
+    "longitude": -43.976507850513286
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.91880537704327,
+    "longitude": -43.97653518733883
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.91880537704327,
+    "longitude": -43.97653518733883
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.91694838884155,
+    "longitude": -43.97641310023188
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.91504107043411,
+    "longitude": -43.961502422986776
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.904776829291116,
+    "longitude": -43.97109127779835
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.903868234234785,
+    "longitude": -43.97192499474005
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.899334307656297,
+    "longitude": -43.956493386230875
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.91662322563462,
+    "longitude": -43.94881918100859
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.90581548536678,
+    "longitude": -43.98599493281876
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 4,
+    "latitude": -19.951245231414255,
+    "longitude": -43.95812640987679
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.89597599279752,
+    "longitude": -43.99944015904921
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.890541029429098,
+    "longitude": -44.003359310217725
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.920251804202863,
+    "longitude": -43.92887758587331
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.91965796760003,
+    "longitude": -43.92629771366779
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.918667504524297,
+    "longitude": -43.92607549737769
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.86855933905244,
+    "longitude": -43.924372101003556
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 8,
+    "latitude": -19.928771798345483,
+    "longitude": -43.99911311843818
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 8,
+    "latitude": -19.92688801058309,
+    "longitude": -44.00174350550927
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.89092927411608,
+    "longitude": -44.01525610311715
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.920215514394204,
+    "longitude": -43.98533718011323
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.975639150020637,
+    "longitude": -43.97611787566038
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-02-01",
+    "quantidade": 14,
+    "latitude": -19.84778924187789,
+    "longitude": -43.946430006620965
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-02-01",
+    "quantidade": 14,
+    "latitude": -19.84778924187789,
+    "longitude": -43.946430006620965
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.918972186687878,
+    "longitude": -43.938110771158186
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.91825704172465,
+    "longitude": -43.93571139326328
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.960254168046276,
+    "longitude": -43.92880238308508
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.946585539570577,
+    "longitude": -43.94069230156461
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.92823209143065,
+    "longitude": -43.909886419151334
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.878856447102564,
+    "longitude": -43.91011554781822
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.883978973805295,
+    "longitude": -43.91624501513828
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 4,
+    "latitude": -19.897687282699934,
+    "longitude": -43.960969915636426
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 8,
+    "latitude": -19.900620069906303,
+    "longitude": -43.96262667631137
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.889237661205083,
+    "longitude": -43.89796512731203
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 42,
+    "latitude": -19.867561828982133,
+    "longitude": -43.972604964294284
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 25,
+    "latitude": -19.862755069405218,
+    "longitude": -43.971454837577696
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 25,
+    "latitude": -19.86337902590727,
+    "longitude": -43.9741897593567
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 2,
+    "latitude": -19.915358392309592,
+    "longitude": -43.93492008892327
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 5,
+    "latitude": -19.89174844137949,
+    "longitude": -43.95711029351259
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 2,
+    "latitude": -19.840474358266857,
+    "longitude": -43.933298681821576
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 4,
+    "latitude": -19.92302205221887,
+    "longitude": -43.94602651656574
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.933453322500345,
+    "longitude": -43.93710129968596
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.94729992591721,
+    "longitude": -43.943473961941116
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 1,
+    "latitude": -19.853799090160127,
+    "longitude": -43.915398869907264
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.852157095378132,
+    "longitude": -43.91605949198045
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.882961021906585,
+    "longitude": -43.93428318704309
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.890969311312936,
+    "longitude": -43.93263148534609
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.881090750259023,
+    "longitude": -43.9222286703028
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.898269967672466,
+    "longitude": -43.9376135846987
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.90031450199296,
+    "longitude": -43.93913664960231
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.898368147679033,
+    "longitude": -43.93942510911924
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.92258620443323,
+    "longitude": -43.90244722569144
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 18,
+    "latitude": -19.847843275800805,
+    "longitude": -43.946216030929264
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 8,
+    "latitude": -19.833226655709773,
+    "longitude": -43.95707648117778
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.989633968603773,
+    "longitude": -44.0168437301536
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.833324729920463,
+    "longitude": -44.005919263947085
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.918282859262277,
+    "longitude": -43.933972855761965
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.918282859262277,
+    "longitude": -43.933972855761965
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.83601014777915,
+    "longitude": -43.891038843744184
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.968114715599267,
+    "longitude": -43.961034292100436
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.925158853957083,
+    "longitude": -43.92228956761613
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.92900682106614,
+    "longitude": -43.921963001527494
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.941536371488542,
+    "longitude": -43.92212632317476
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.94322494334842,
+    "longitude": -43.922769287831606
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.801876425832578,
+    "longitude": -43.99236227510018
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.807267347817902,
+    "longitude": -43.98063752133255
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.916495024277864,
+    "longitude": -43.91416254110261
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 6,
+    "latitude": -19.890869324990778,
+    "longitude": -43.90662966918514
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.890292657073008,
+    "longitude": -43.95577586935924
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.8923068503771,
+    "longitude": -43.95803710216119
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 4,
+    "latitude": -19.91805194115613,
+    "longitude": -43.91843312001372
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.92221027537329,
+    "longitude": -43.90264356983512
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.920770581290643,
+    "longitude": -43.90317398664317
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.80247098073281,
+    "longitude": -43.98799757757947
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 3,
+    "latitude": -19.89080760295864,
+    "longitude": -44.01524711219234
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.857206611658256,
+    "longitude": -43.92888131413079
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 4,
+    "latitude": -19.91900004801055,
+    "longitude": -43.943971917277764
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.90006243466324,
+    "longitude": -43.931529985138425
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.899299098993744,
+    "longitude": -43.92978415243938
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.922262040417642,
+    "longitude": -43.99890646198433
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.924072748668813,
+    "longitude": -43.999508145110575
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.9079238441741,
+    "longitude": -43.97932283641494
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.909415843105833,
+    "longitude": -43.97972156705802
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.909269631591574,
+    "longitude": -43.98061734521529
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 12,
+    "latitude": -19.906812970999656,
+    "longitude": -43.96128873982269
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.90906359161525,
+    "longitude": -43.95991684589925
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.893306612470436,
+    "longitude": -44.014493941885355
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.867895445391106,
+    "longitude": -43.969385117124354
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 7,
+    "latitude": -19.90772606189021,
+    "longitude": -43.91790110435966
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.912455569260132,
+    "longitude": -43.96181946464452
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.92329671346626,
+    "longitude": -44.00041492651335
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.925288155230554,
+    "longitude": -43.99829142236102
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.989992581379667,
+    "longitude": -44.01397810143526
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 3,
+    "latitude": -19.915624768172897,
+    "longitude": -43.9321943468272
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.914316036347778,
+    "longitude": -43.91357374450659
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.916228952616503,
+    "longitude": -43.918347211954604
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.916228952616503,
+    "longitude": -43.918347211954604
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.91634370629386,
+    "longitude": -43.91379710615978
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 4,
+    "latitude": -19.90496442468672,
+    "longitude": -43.971062648424876
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.9157832683148,
+    "longitude": -43.919720959616214
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 4,
+    "latitude": -19.91308623464148,
+    "longitude": -43.91069717624167
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 4,
+    "latitude": -19.91304308287152,
+    "longitude": -43.912090898922855
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.923605505835397,
+    "longitude": -43.99873663607834
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.933071632241628,
+    "longitude": -43.9370059195289
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 4,
+    "latitude": -19.91821909146303,
+    "longitude": -43.894209609627154
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.888911467164657,
+    "longitude": -43.91948293607549
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 8,
+    "latitude": -19.895040729484624,
+    "longitude": -43.96030238600928
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.94568769537526,
+    "longitude": -43.94160469866428
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 4,
+    "latitude": -19.92907605872386,
+    "longitude": -43.937103248505814
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.90874252654858,
+    "longitude": -43.97505748458357
+  },
+  {
+    "data_inicio": "2026-02-12",
+    "data_final": "2026-02-12",
+    "quantidade": 3,
+    "latitude": -19.92034498556287,
+    "longitude": -43.93554628106205
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 8,
+    "latitude": -19.918837080504446,
+    "longitude": -43.93478358414493
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 20,
+    "latitude": -19.922275617072515,
+    "longitude": -43.93643743324361
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.918548592474036,
+    "longitude": -43.93531449758755
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.86002374448627,
+    "longitude": -43.98147556719907
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.86002374448627,
+    "longitude": -43.98147556719907
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.937646303280392,
+    "longitude": -43.93825517048639
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.887166661483867,
+    "longitude": -43.91464883986352
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.879325286644878,
+    "longitude": -43.910615210209656
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.910706823551664,
+    "longitude": -43.90509102935258
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.916352488290393,
+    "longitude": -43.91074244731841
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.915023078669318,
+    "longitude": -43.909752180318485
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.915023078669318,
+    "longitude": -43.909752180318485
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.915023078669318,
+    "longitude": -43.909752180318485
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.898005132521845,
+    "longitude": -43.89896599711611
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.822750217969354,
+    "longitude": -43.9861738467778
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.880010059161986,
+    "longitude": -43.931895814258304
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.8906844795779,
+    "longitude": -43.93237033494729
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.867725074906133,
+    "longitude": -43.93412889096038
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.859298225555204,
+    "longitude": -43.9718054555067
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.915300544424646,
+    "longitude": -43.936985438848836
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.918350415381337,
+    "longitude": -43.93558160428931
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.920225934341513,
+    "longitude": -43.93624698006682
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.943436054418246,
+    "longitude": -43.92148079256671
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.96016981257074,
+    "longitude": -43.95147543893352
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.954890916736808,
+    "longitude": -43.951360097778284
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.932584834485688,
+    "longitude": -43.9518884916406
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.93195101166068,
+    "longitude": -43.95448469025747
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 6,
+    "latitude": -19.932497707558397,
+    "longitude": -43.95185381034119
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 8,
+    "latitude": -19.901773849787435,
+    "longitude": -43.94811724296392
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.929404609438805,
+    "longitude": -43.95379538037175
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.919684824666763,
+    "longitude": -43.92634616025754
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.9189725848798,
+    "longitude": -43.97649646975625
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.862353774244713,
+    "longitude": -43.88950000702048
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.94659016140244,
+    "longitude": -43.98377339353162
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.822913114541024,
+    "longitude": -43.97179427989101
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.89950960861434,
+    "longitude": -43.99713135397318
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.89284077296599,
+    "longitude": -44.01166640991688
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.891758278290485,
+    "longitude": -44.01067225410887
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 4,
+    "latitude": -19.916201460907327,
+    "longitude": -43.91080901769089
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 22,
+    "latitude": -19.847758362646346,
+    "longitude": -43.9466020987407
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.79779904907007,
+    "longitude": -43.985038975284915
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.90457932310143,
+    "longitude": -43.91705100798382
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 5,
+    "latitude": -19.91802319920907,
+    "longitude": -43.9326511449783
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 6,
+    "latitude": -19.92113132626756,
+    "longitude": -43.88105639443041
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.946120471062084,
+    "longitude": -43.984496967726706
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.91200563067867,
+    "longitude": -43.95683790474336
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.895962311171807,
+    "longitude": -43.97128608395252
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.89245577064798,
+    "longitude": -44.01489581350965
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.90028048357457,
+    "longitude": -44.01612344956354
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.83997679514609,
+    "longitude": -43.9453695803465
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.83003729518281,
+    "longitude": -43.95721053923417
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.834868635423796,
+    "longitude": -43.95604348969809
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.85383700095492,
+    "longitude": -43.98095715455389
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 12,
+    "latitude": -19.930691455007327,
+    "longitude": -43.94894066227382
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.954096526840278,
+    "longitude": -43.90932725017816
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.955468728145817,
+    "longitude": -43.911768771095275
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.945361478007197,
+    "longitude": -43.91691555024975
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.9367318946253,
+    "longitude": -43.93607842145051
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 20,
+    "latitude": -19.935453714810897,
+    "longitude": -43.93719378393601
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.90181396866782,
+    "longitude": -43.93925962896249
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.917542904757763,
+    "longitude": -43.939861347446524
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.907033260329772,
+    "longitude": -43.88596956891989
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.872964968406894,
+    "longitude": -43.94008921441781
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 3,
+    "latitude": -19.874053630066793,
+    "longitude": -43.9383830610622
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.9540355842782,
+    "longitude": -43.97045253287509
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 3,
+    "latitude": -19.97563877038393,
+    "longitude": -44.023547759147775
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 5,
+    "latitude": -19.921060708813044,
+    "longitude": -43.95266390001533
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 10,
+    "latitude": -19.92177461181943,
+    "longitude": -43.949708028264276
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.91721587581413,
+    "longitude": -43.931177683568905
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.89944706969422,
+    "longitude": -43.93855829853231
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.9341198866707,
+    "longitude": -43.93787381420092
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.9292321707012,
+    "longitude": -43.908198698853546
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.878973967922057,
+    "longitude": -43.92899547276225
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.943729343934418,
+    "longitude": -43.993254224059775
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.940525232801313,
+    "longitude": -43.993897042145335
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.90126273716318,
+    "longitude": -43.92932322527843
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 4,
+    "latitude": -19.87408605718646,
+    "longitude": -43.93829029681486
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.91889795408033,
+    "longitude": -43.9341761412903
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.881775330927052,
+    "longitude": -43.9097975859636
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.954024632208792,
+    "longitude": -43.970449259383685
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.88900904979476,
+    "longitude": -43.9398305351664
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.83130826167262,
+    "longitude": -43.957752710759905
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 9,
+    "latitude": -19.987880418496978,
+    "longitude": -44.015069858741704
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.94870452422256,
+    "longitude": -43.919957242678784
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.948546948641976,
+    "longitude": -43.91856227976356
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.93764764840479,
+    "longitude": -43.935490311122905
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 15,
+    "latitude": -19.93728029766897,
+    "longitude": -43.93664277608727
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 2,
+    "latitude": -19.924400568778978,
+    "longitude": -43.93520958415842
+  },
+  {
+    "data_inicio": "2026-02-10",
+    "data_final": "2026-02-10",
+    "quantidade": 4,
+    "latitude": -19.901758903990423,
+    "longitude": -43.93575802442509
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 10,
+    "latitude": -19.89664996237029,
+    "longitude": -43.908039239449565
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 10,
+    "latitude": -19.89863940532456,
+    "longitude": -43.90593593292451
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.910956422222302,
+    "longitude": -43.91161863017716
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.923941285608745,
+    "longitude": -43.96889696937646
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.906147887933024,
+    "longitude": -43.9855951259032
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.948189140685965,
+    "longitude": -43.94230955202994
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 4,
+    "latitude": -19.85712095601528,
+    "longitude": -43.92883652719079
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.878885690410534,
+    "longitude": -43.91009557701332
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.80742537316909,
+    "longitude": -43.98058820670109
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.879179886748577,
+    "longitude": -43.93088990580416
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.806523153974375,
+    "longitude": -43.9819196466213
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.974049340179704,
+    "longitude": -43.94220931236782
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.925108869841395,
+    "longitude": -43.92228665810822
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 9,
+    "latitude": -19.899149417117304,
+    "longitude": -43.89797811170051
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.894768584425563,
+    "longitude": -43.8996330446527
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.923582656130645,
+    "longitude": -43.968709171437254
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 2,
+    "latitude": -19.91914548119885,
+    "longitude": -43.97557848819648
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 4,
+    "latitude": -19.88990419634098,
+    "longitude": -43.90584311417152
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 4,
+    "latitude": -19.891486774904383,
+    "longitude": -43.907329786113394
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.97234376932532,
+    "longitude": -43.975991500402074
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.92465557923503,
+    "longitude": -43.96644335639676
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 4,
+    "latitude": -19.840063374512685,
+    "longitude": -43.93169101149492
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.83828082874671,
+    "longitude": -43.93335276672323
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 4,
+    "latitude": -19.83474286714894,
+    "longitude": -43.935219162188474
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.976316339194916,
+    "longitude": -44.02428331750354
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 4,
+    "latitude": -19.9313785337892,
+    "longitude": -43.92409138043301
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.88189566396691,
+    "longitude": -43.928731514706584
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.916363612268285,
+    "longitude": -43.99199498489269
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.91674055972283,
+    "longitude": -43.988427100445364
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.93391153202323,
+    "longitude": -43.945855611934704
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.834861958612837,
+    "longitude": -43.956029687849274
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 3,
+    "latitude": -19.873119362770446,
+    "longitude": -43.93988771556204
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 3,
+    "latitude": -19.90263951263853,
+    "longitude": -43.9717752156194
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.90303110929276,
+    "longitude": -43.919983490522604
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.887643207370047,
+    "longitude": -43.93982711205547
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.90204115821203,
+    "longitude": -43.950556073757504
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.90154179258031,
+    "longitude": -43.94838854122379
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.92743555905375,
+    "longitude": -43.921533692630774
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.931992772013416,
+    "longitude": -43.93871161901352
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.931992772013416,
+    "longitude": -43.93871161901352
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 2,
+    "latitude": -19.838315185091975,
+    "longitude": -43.933295817700056
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 2,
+    "latitude": -19.836926329060663,
+    "longitude": -43.933554789548694
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 2,
+    "latitude": -19.83990890639463,
+    "longitude": -43.957183538852156
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 8,
+    "latitude": -19.92102287051319,
+    "longitude": -43.95282083091378
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 8,
+    "latitude": -19.921955163621487,
+    "longitude": -43.94780151975257
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.91790904463348,
+    "longitude": -43.923861052273686
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.917203767248793,
+    "longitude": -43.91476883621329
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.915550091171554,
+    "longitude": -43.920886619517624
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.88049890394864,
+    "longitude": -43.92180802399399
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.893690423698295,
+    "longitude": -43.93866793017665
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.901820712092633,
+    "longitude": -43.935804132212006
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.863016190171727,
+    "longitude": -43.89005474675517
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 8,
+    "latitude": -19.906705429315693,
+    "longitude": -43.90749777946353
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.8707164437544,
+    "longitude": -43.934890908220005
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.868613544882585,
+    "longitude": -43.933720873849374
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.946397303153883,
+    "longitude": -43.98392474241102
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.923017384727263,
+    "longitude": -43.96721468809046
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.917330509183063,
+    "longitude": -43.93127827574984
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.930969680944344,
+    "longitude": -43.97920042914594
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.914997442473652,
+    "longitude": -43.930617765360694
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 20,
+    "latitude": -19.867439326896967,
+    "longitude": -43.97267146151476
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 15,
+    "latitude": -19.866216272970433,
+    "longitude": -43.972847046583674
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 24,
+    "latitude": -19.919026031164776,
+    "longitude": -43.93922961682818
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 10,
+    "latitude": -19.932254136080566,
+    "longitude": -43.93674090263222
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 1,
+    "latitude": -19.94277337484434,
+    "longitude": -43.929483882464524
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 1,
+    "latitude": -19.94277337484434,
+    "longitude": -43.929483882464524
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.9447823961112,
+    "longitude": -43.92834054186877
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.9447823961112,
+    "longitude": -43.92834054186877
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.9062002849952,
+    "longitude": -43.973934671992936
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.92901498699961,
+    "longitude": -43.93711980349726
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.903814929469824,
+    "longitude": -43.96802427517082
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.95259938691815,
+    "longitude": -43.932390194640256
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.94591029543281,
+    "longitude": -43.94032587185673
+  },
+  {
+    "data_inicio": "2026-02-20",
+    "data_final": "2026-02-20",
+    "quantidade": 4,
+    "latitude": -19.946245681403703,
+    "longitude": -44.00461854504927
+  },
+  {
+    "data_inicio": "2026-02-20",
+    "data_final": "2026-02-20",
+    "quantidade": 4,
+    "latitude": -19.9467140864678,
+    "longitude": -44.00220238686853
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 8,
+    "latitude": -19.860998773522073,
+    "longitude": -43.97148153639181
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 5,
+    "latitude": -19.975680211165987,
+    "longitude": -43.97623430276793
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 4,
+    "latitude": -19.972327103290343,
+    "longitude": -43.97601578699041
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.931513770067085,
+    "longitude": -43.97713537055214
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 12,
+    "latitude": -19.936617627648005,
+    "longitude": -43.93307042538558
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.9124306982777,
+    "longitude": -43.958647274975164
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 6,
+    "latitude": -19.91344870472239,
+    "longitude": -43.95471352999873
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 12,
+    "latitude": -19.938331662127638,
+    "longitude": -43.93617290645488
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.94794659704668,
+    "longitude": -43.92927777819992
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.928118003509486,
+    "longitude": -43.908948990519455
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 3,
+    "latitude": -19.93142237170821,
+    "longitude": -43.90766906003223
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.830977905476615,
+    "longitude": -43.94896941440151
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 8,
+    "latitude": -19.830102630055368,
+    "longitude": -43.95569737253283
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.833238840433687,
+    "longitude": -43.95702779973591
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 6,
+    "latitude": -19.830367798178695,
+    "longitude": -43.959497692815276
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.923521876082106,
+    "longitude": -43.968278300427976
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.923521876082106,
+    "longitude": -43.968278300427976
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 50,
+    "latitude": -19.920458784445238,
+    "longitude": -43.93866651893875
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 4,
+    "latitude": -19.893781004924282,
+    "longitude": -44.00038386002694
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 10,
+    "latitude": -19.939940123081016,
+    "longitude": -43.96754271036805
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 8,
+    "latitude": -19.942834047799032,
+    "longitude": -43.96411272812794
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 8,
+    "latitude": -19.977618647550432,
+    "longitude": -44.0222474283042
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 8,
+    "latitude": -19.985279346110584,
+    "longitude": -43.97366933585066
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.926959493814056,
+    "longitude": -43.979439240645746
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.906861025798964,
+    "longitude": -44.01906523841379
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.911156907002113,
+    "longitude": -44.021774254672714
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.843380621728137,
+    "longitude": -43.93986774492491
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.89039166287908,
+    "longitude": -44.000409239033715
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.89039166287908,
+    "longitude": -44.000409239033715
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 8,
+    "latitude": -19.88895835749317,
+    "longitude": -44.002090206091836
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 8,
+    "latitude": -19.88895835749317,
+    "longitude": -44.002090206091836
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.924004070678787,
+    "longitude": -43.991097870172844
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.920464915544372,
+    "longitude": -43.98778117217583
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 3,
+    "latitude": -19.944987300631656,
+    "longitude": -43.928127417179184
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 6,
+    "latitude": -19.942799250803247,
+    "longitude": -43.92941462529681
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.914562853829292,
+    "longitude": -43.93186921056708
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.93604546716533,
+    "longitude": -43.93207284804934
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 5,
+    "latitude": -19.93875748659929,
+    "longitude": -43.936954312138226
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.811834599604673,
+    "longitude": -43.93479774901414
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.944512219544524,
+    "longitude": -43.98560438523043
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.908289188439415,
+    "longitude": -43.949085938996205
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.825204757400876,
+    "longitude": -43.905346668151985
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.887872658836358,
+    "longitude": -44.003338656681244
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.887872658836358,
+    "longitude": -44.003338656681244
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.937559041109175,
+    "longitude": -43.93407900483069
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 6,
+    "latitude": -19.9386067579338,
+    "longitude": -43.939082884497246
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 6,
+    "latitude": -19.9386067579338,
+    "longitude": -43.939082884497246
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 15,
+    "latitude": -19.937433910971688,
+    "longitude": -43.93346375706975
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.931163944456763,
+    "longitude": -43.93397228121347
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 4,
+    "latitude": -19.97236337530044,
+    "longitude": -43.97599127822767
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.93164795361271,
+    "longitude": -43.944518394956475
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 25,
+    "latitude": -19.923741502667326,
+    "longitude": -43.93558468865358
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 6,
+    "latitude": -19.93245506666232,
+    "longitude": -43.93814281489011
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 3,
+    "latitude": -19.89955238892002,
+    "longitude": -43.99693028939096
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.91544500546594,
+    "longitude": -43.927981943165044
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 6,
+    "latitude": -19.956662590731653,
+    "longitude": -43.93006726213261
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 6,
+    "latitude": -19.954250926403716,
+    "longitude": -43.929663450068574
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 24,
+    "latitude": -19.924228582438413,
+    "longitude": -43.93529347286229
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.97063852025368,
+    "longitude": -43.93862402047833
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 4,
+    "latitude": -19.944432861347526,
+    "longitude": -43.939926961203355
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 6,
+    "latitude": -19.940898042398537,
+    "longitude": -43.94033236778206
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.94714909591295,
+    "longitude": -43.91878965971573
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.8357360693328,
+    "longitude": -43.931034170309566
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.834182354440475,
+    "longitude": -43.935198739865584
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.907086366331523,
+    "longitude": -43.93720787570104
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.919475743214814,
+    "longitude": -43.93456224802645
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.798669489323526,
+    "longitude": -43.97827243334241
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.89261764493512,
+    "longitude": -43.924700590790806
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 30,
+    "latitude": -19.884649209631903,
+    "longitude": -43.99692795676318
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 30,
+    "latitude": -19.883018649814932,
+    "longitude": -43.99874729101098
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.932985242035958,
+    "longitude": -43.97970017968253
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.906522184738666,
+    "longitude": -44.01360738495199
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.909977551364367,
+    "longitude": -44.008667867377795
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 15,
+    "latitude": -19.92034781263468,
+    "longitude": -43.9380738800749
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.89742026767144,
+    "longitude": -44.01342391966772
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.89742026767144,
+    "longitude": -44.01342391966772
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 15,
+    "latitude": -19.926749086392597,
+    "longitude": -43.933551033574425
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 10,
+    "latitude": -19.922366508281673,
+    "longitude": -43.93685929451334
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.895877358679027,
+    "longitude": -44.010858537596064
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 10,
+    "latitude": -19.922316231819863,
+    "longitude": -43.93688303747891
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 20,
+    "latitude": -19.95261728931862,
+    "longitude": -43.926293883846625
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.920213250956305,
+    "longitude": -43.985368053291594
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 3,
+    "latitude": -19.88305711389343,
+    "longitude": -44.01370218826537
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.92756414181741,
+    "longitude": -44.015837464478224
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.930679944630807,
+    "longitude": -44.017586995006
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 45,
+    "latitude": -19.92703524221299,
+    "longitude": -43.92739466866047
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 40,
+    "latitude": -19.927359749034352,
+    "longitude": -43.92699722673034
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 25,
+    "latitude": -19.92785176832026,
+    "longitude": -43.92895030129483
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 40,
+    "latitude": -19.92832971669048,
+    "longitude": -43.92857026548156
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 40,
+    "latitude": -19.928752652112443,
+    "longitude": -43.93030722917364
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 8,
+    "latitude": -19.83465810878632,
+    "longitude": -43.955612027647895
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 8,
+    "latitude": -19.83465810878632,
+    "longitude": -43.955612027647895
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 60,
+    "latitude": -19.876696814078215,
+    "longitude": -43.920046364444204
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 60,
+    "latitude": -19.876696814078215,
+    "longitude": -43.920046364444204
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 40,
+    "latitude": -19.878542394221686,
+    "longitude": -43.9184043416146
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 40,
+    "latitude": -19.878542394221686,
+    "longitude": -43.9184043416146
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 6,
+    "latitude": -19.838081439690733,
+    "longitude": -43.95292620340649
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 15,
+    "latitude": -19.861161376186317,
+    "longitude": -43.97133370136342
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.934252465344144,
+    "longitude": -43.94007237955485
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.91581448411796,
+    "longitude": -43.919713200453764
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.916411009015455,
+    "longitude": -43.92876368591313
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 2,
+    "latitude": -19.912336138161667,
+    "longitude": -43.912267212090626
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 6,
+    "latitude": -19.889061248708433,
+    "longitude": -43.94008397941055
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 6,
+    "latitude": -19.886782418328504,
+    "longitude": -43.93998442534977
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.90738144582541,
+    "longitude": -43.91038172527128
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 24,
+    "latitude": -19.94360450303863,
+    "longitude": -43.92327227109958
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 12,
+    "latitude": -19.90913651540147,
+    "longitude": -43.89915790942895
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 15,
+    "latitude": -19.945211716745863,
+    "longitude": -43.92222569248514
+  },
+  {
+    "data_inicio": "2026-02-05",
+    "data_final": "2026-02-05",
+    "quantidade": 6,
+    "latitude": -19.890795322626886,
+    "longitude": -43.92577324793587
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.901181463107477,
+    "longitude": -43.941685030495954
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.911021067407955,
+    "longitude": -43.96039546598216
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.919614428125602,
+    "longitude": -43.93873004911889
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.915065774161327,
+    "longitude": -43.93445985660796
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.920378478111893,
+    "longitude": -43.93552628075469
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.928783922507616,
+    "longitude": -43.929768163319245
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.928783922507616,
+    "longitude": -43.929768163319245
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.927390832323983,
+    "longitude": -43.92699739908277
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.927390832323983,
+    "longitude": -43.92699739908277
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 8,
+    "latitude": -19.91759189801814,
+    "longitude": -43.930735600006
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.94547201138835,
+    "longitude": -43.93889331855778
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 6,
+    "latitude": -19.928834921543032,
+    "longitude": -43.935702783243244
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.930076691838693,
+    "longitude": -43.93603708436231
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 14,
+    "latitude": -19.863495875954136,
+    "longitude": -43.971637439111745
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 6,
+    "latitude": -19.88762575184695,
+    "longitude": -43.99978509139532
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 6,
+    "latitude": -19.892019406447947,
+    "longitude": -44.00033703052628
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.97766400367515,
+    "longitude": -44.023099566923065
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.910477447533687,
+    "longitude": -43.90496469295894
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 15,
+    "latitude": -19.873465544419286,
+    "longitude": -43.94631898484629
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 20,
+    "latitude": -19.876184341888493,
+    "longitude": -43.940997699927955
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 6,
+    "latitude": -19.93192931407708,
+    "longitude": -43.95014550376098
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 6,
+    "latitude": -19.93192931407708,
+    "longitude": -43.95014550376098
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.86121695994462,
+    "longitude": -43.98208499091311
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.86121695994462,
+    "longitude": -43.98208499091311
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.949194472723043,
+    "longitude": -43.92738800091035
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.938681819167016,
+    "longitude": -43.93311924254293
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 2,
+    "latitude": -19.91021189218199,
+    "longitude": -43.934298247189886
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.92332712161822,
+    "longitude": -43.947846324926104
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.92332712161822,
+    "longitude": -43.947846324926104
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.922005814753305,
+    "longitude": -43.95375034577401
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 10,
+    "latitude": -19.922005814753305,
+    "longitude": -43.95375034577401
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 2,
+    "latitude": -19.906730875537615,
+    "longitude": -43.90747754391043
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 2,
+    "latitude": -19.891776594658467,
+    "longitude": -43.95716551086192
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 2,
+    "latitude": -19.905765852666995,
+    "longitude": -43.94812926368318
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 2,
+    "latitude": -19.845480581095092,
+    "longitude": -43.95186547455481
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 10,
+    "latitude": -19.863844871022707,
+    "longitude": -43.97374410357559
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 2,
+    "latitude": -19.84183045077724,
+    "longitude": -43.95622821789078
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 6,
+    "latitude": -19.88185535711499,
+    "longitude": -43.92873016193232
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 6,
+    "latitude": -19.879123223111744,
+    "longitude": -43.92897832831184
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 4,
+    "latitude": -19.89398753056381,
+    "longitude": -44.003472048273785
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 12,
+    "latitude": -19.929008854043488,
+    "longitude": -43.9469878212876
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 12,
+    "latitude": -19.930457783551557,
+    "longitude": -43.94739689216169
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.90695973466431,
+    "longitude": -43.95860398078292
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-13",
+    "quantidade": 3,
+    "latitude": -19.91536859288053,
+    "longitude": -43.92806155998029
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.89193151162749,
+    "longitude": -43.90827352000465
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.888563514568272,
+    "longitude": -43.909304881708586
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 10,
+    "latitude": -19.911998519172826,
+    "longitude": -43.911166039413516
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 5,
+    "latitude": -19.91307012811073,
+    "longitude": -43.91069336972112
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.898379287609533,
+    "longitude": -43.939414336259716
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.898379287609533,
+    "longitude": -43.939414336259716
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.901136847221398,
+    "longitude": -43.94167319537655
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.900315303204312,
+    "longitude": -43.939134638241335
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.900332099223988,
+    "longitude": -43.939102621012864
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.900332099223988,
+    "longitude": -43.939102621012864
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.900332099223988,
+    "longitude": -43.939102621012864
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.89893080650602,
+    "longitude": -43.937125346173325
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.89893080650602,
+    "longitude": -43.937125346173325
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-17",
+    "quantidade": 6,
+    "latitude": -19.89893080650602,
+    "longitude": -43.937125346173325
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-18",
+    "quantidade": 5,
+    "latitude": -19.901781662385314,
+    "longitude": -43.935771245865595
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-18",
+    "quantidade": 5,
+    "latitude": -19.901781662385314,
+    "longitude": -43.935771245865595
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-18",
+    "quantidade": 5,
+    "latitude": -19.901781662385314,
+    "longitude": -43.935771245865595
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-18",
+    "quantidade": 5,
+    "latitude": -19.901781662385314,
+    "longitude": -43.935771245865595
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-18",
+    "quantidade": 5,
+    "latitude": -19.901781662385314,
+    "longitude": -43.935771245865595
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 10,
+    "latitude": -19.878319595712345,
+    "longitude": -43.918630591253695
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.82936587454165,
+    "longitude": -43.89971254879209
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.82936587454165,
+    "longitude": -43.89971254879209
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.939836040243513,
+    "longitude": -43.96350977613303
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 3,
+    "latitude": -19.877896321956165,
+    "longitude": -43.93803884400311
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 8,
+    "latitude": -19.97569551822171,
+    "longitude": -44.01971506401659
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.9237368979816,
+    "longitude": -43.96877208700162
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.891345066816633,
+    "longitude": -43.998889536622485
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.843404071608553,
+    "longitude": -43.911123636662424
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.843404071608553,
+    "longitude": -43.911123636662424
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.84284632437658,
+    "longitude": -43.90951471379501
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.84284632437658,
+    "longitude": -43.90951471379501
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 3,
+    "latitude": -19.92343617380917,
+    "longitude": -44.00659550282919
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.922702715446437,
+    "longitude": -44.005846753473946
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.867972796073047,
+    "longitude": -43.944016920666314
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.86608999316512,
+    "longitude": -43.94228738595711
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 2,
+    "latitude": -19.866585156712546,
+    "longitude": -43.94332481707126
+  },
+  {
+    "data_inicio": "2026-02-13",
+    "data_final": "2026-02-14",
+    "quantidade": 40,
+    "latitude": -19.916102294988193,
+    "longitude": -43.934136694988034
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 15,
+    "latitude": -19.93231345566829,
+    "longitude": -43.94854747145209
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 15,
+    "latitude": -19.93231345566829,
+    "longitude": -43.94854747145209
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.913699899136724,
+    "longitude": -43.901907078537256
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.91094967079933,
+    "longitude": -43.89945048857396
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 3,
+    "latitude": -19.922282573695693,
+    "longitude": -43.941402594414356
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 42,
+    "latitude": -19.8673180486993,
+    "longitude": -43.97265247300792
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 42,
+    "latitude": -19.8673180486993,
+    "longitude": -43.97265247300792
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 42,
+    "latitude": -19.8673180486993,
+    "longitude": -43.97265247300792
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 8,
+    "latitude": -19.918542213207196,
+    "longitude": -43.93547140993168
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.98572864725075,
+    "longitude": -44.01700444779542
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 25,
+    "latitude": -19.92231179697275,
+    "longitude": -43.93691201514799
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 25,
+    "latitude": -19.92597215795239,
+    "longitude": -43.93405458283898
+  },
+  {
+    "data_inicio": "2026-02-11",
+    "data_final": "2026-02-11",
+    "quantidade": 25,
+    "latitude": -19.918518542533324,
+    "longitude": -43.93838846541051
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.952364234664294,
+    "longitude": -43.92245090802085
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.95668790340523,
+    "longitude": -43.93003947507294
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 6,
+    "latitude": -19.922703442157456,
+    "longitude": -43.95046811240167
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.936351240687955,
+    "longitude": -43.9372582937417
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.936351240687955,
+    "longitude": -43.9372582937417
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 8,
+    "latitude": -19.93686994344971,
+    "longitude": -43.97007030717514
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 10,
+    "latitude": -19.86346616531118,
+    "longitude": -43.972313891131044
+  },
+  {
+    "data_inicio": "2026-02-06",
+    "data_final": "2026-02-06",
+    "quantidade": 25,
+    "latitude": -19.86413708163338,
+    "longitude": -43.973884620058264
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 3,
+    "latitude": -19.932651139283184,
+    "longitude": -43.92623441464075
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.910233284936382,
+    "longitude": -43.934279570952214
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.799378103068314,
+    "longitude": -43.98034962892245
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.875091814765444,
+    "longitude": -43.99877081984924
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 10,
+    "latitude": -19.9175121191892,
+    "longitude": -43.934951810684225
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 12,
+    "latitude": -19.915967959810203,
+    "longitude": -43.933703583602174
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.91941411055765,
+    "longitude": -43.93456055913499
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 2,
+    "latitude": -19.948252760498505,
+    "longitude": -43.93120426915859
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 4,
+    "latitude": -19.899754391303972,
+    "longitude": -43.939925975662646
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 60,
+    "latitude": -19.885095750261716,
+    "longitude": -43.99484411589312
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.866021782385253,
+    "longitude": -43.898459314772204
+  },
+  {
+    "data_inicio": "2026-02-22",
+    "data_final": "2026-02-22",
+    "quantidade": 25,
+    "latitude": -19.929377697375074,
+    "longitude": -43.930466781936346
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 8,
+    "latitude": -19.83683476561301,
+    "longitude": -43.9540163397139
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 5,
+    "latitude": -19.83466617145628,
+    "longitude": -43.95614058498575
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 6,
+    "latitude": -19.83683318795432,
+    "longitude": -43.95402465742736
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 2,
+    "latitude": -19.861129868000866,
+    "longitude": -43.98208717011949
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 25,
+    "latitude": -19.91306489265566,
+    "longitude": -43.93909206177126
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 25,
+    "latitude": -19.914237518635574,
+    "longitude": -43.937788429370165
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 4,
+    "latitude": -19.96694407924621,
+    "longitude": -43.951099724783596
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.96543835637228,
+    "longitude": -43.94962680986373
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.933511672866484,
+    "longitude": -43.945423343789564
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.91418744496773,
+    "longitude": -43.93026391102053
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.91418744496773,
+    "longitude": -43.93026391102053
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 8,
+    "latitude": -19.89942082078871,
+    "longitude": -43.997137262690565
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 10,
+    "latitude": -19.906751527855207,
+    "longitude": -43.90747119281454
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 11,
+    "latitude": -19.910563474946905,
+    "longitude": -43.93019083653506
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.89909850453624,
+    "longitude": -43.94188553144521
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 6,
+    "latitude": -19.89909850453624,
+    "longitude": -43.94188553144521
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.928996496945572,
+    "longitude": -43.94700672497823
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 15,
+    "latitude": -19.930239826695338,
+    "longitude": -43.92909443468919
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 15,
+    "latitude": -19.927292309312218,
+    "longitude": -43.926916663372005
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 6,
+    "latitude": -19.831776988111432,
+    "longitude": -43.95839484065717
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.974645256049577,
+    "longitude": -43.9761843121191
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.945600243031343,
+    "longitude": -43.9288267326606
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.925814035773612,
+    "longitude": -43.91321029189337
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.854758945141697,
+    "longitude": -43.95217231593091
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.915740193635653,
+    "longitude": -43.91231396208438
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.914771720170176,
+    "longitude": -43.90975371201227
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 8,
+    "latitude": -19.90779272059208,
+    "longitude": -43.90638810650938
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 3,
+    "latitude": -19.81833160674276,
+    "longitude": -43.9968393348136
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.900233090083926,
+    "longitude": -44.01590269396622
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.913611818766345,
+    "longitude": -43.96699508572418
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.920025566104577,
+    "longitude": -43.9824249687188
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.843551247348554,
+    "longitude": -43.91853191237441
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-15",
+    "quantidade": 4,
+    "latitude": -19.843551247348554,
+    "longitude": -43.91853191237441
+  },
+  {
+    "data_inicio": "2026-02-14",
+    "data_final": "2026-02-14",
+    "quantidade": 2,
+    "latitude": -19.818677160098083,
+    "longitude": -43.90232708561481
+  },
+  {
+    "data_inicio": "2026-02-16",
+    "data_final": "2026-02-16",
+    "quantidade": 4,
+    "latitude": -19.836834405543648,
+    "longitude": -43.954001159611366
+  },
+  {
+    "data_inicio": "2026-02-01",
+    "data_final": "2026-02-01",
+    "quantidade": 2,
+    "latitude": -19.898451979417704,
+    "longitude": -44.02121422541232
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 2,
+    "latitude": -19.83370489423765,
+    "longitude": -43.94705714757676
+  },
+  {
+    "data_inicio": "2026-02-17",
+    "data_final": "2026-02-17",
+    "quantidade": 2,
+    "latitude": -19.919846998032163,
+    "longitude": -43.923579291093375
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.86346631863486,
+    "longitude": -43.97414402482609
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.86346631863486,
+    "longitude": -43.97414402482609
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.86346631863486,
+    "longitude": -43.97414402482609
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.862966735386998,
+    "longitude": -43.97141651312255
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.862966735386998,
+    "longitude": -43.97141651312255
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 25,
+    "latitude": -19.862966735386998,
+    "longitude": -43.97141651312255
+  },
+  {
+    "data_inicio": "2026-01-31",
+    "data_final": "2026-01-31",
+    "quantidade": 6,
+    "latitude": -19.948816257180162,
+    "longitude": -43.920085002179
+  },
+  {
+    "data_inicio": "2026-02-15",
+    "data_final": "2026-02-15",
+    "quantidade": 2,
+    "latitude": -19.90061893144644,
+    "longitude": -43.94682114580815
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 7,
+    "latitude": -19.91618325111766,
+    "longitude": -43.91704386759065
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 5,
+    "latitude": -19.80011122977031,
+    "longitude": -43.93787328291714
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 3,
+    "latitude": -19.977057465888162,
+    "longitude": -43.999391241819396
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.926218765872882,
+    "longitude": -43.93810469971235
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.926218765872882,
+    "longitude": -43.93810469971235
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 10,
+    "latitude": -19.937220585455115,
+    "longitude": -43.93432262705571
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 15,
+    "latitude": -19.93672415025531,
+    "longitude": -43.9328286460325
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 4,
+    "latitude": -19.97486808863269,
+    "longitude": -43.976327758262066
+  },
+  {
+    "data_inicio": "2026-02-07",
+    "data_final": "2026-02-07",
+    "quantidade": 2,
+    "latitude": -19.88841457456003,
+    "longitude": -43.909004354338656
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 4,
+    "latitude": -19.917090780405644,
+    "longitude": -43.929698404771955
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 15,
+    "latitude": -19.930155034755554,
+    "longitude": -43.93148978054486
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 20,
+    "latitude": -19.932370640180036,
+    "longitude": -43.929928124255646
+  },
+  {
+    "data_inicio": "2026-02-08",
+    "data_final": "2026-02-08",
+    "quantidade": 8,
+    "latitude": -19.934158556382314,
+    "longitude": -43.92894735460205
+  },
+  {
+    "data_inicio": "2026-02-18",
+    "data_final": "2026-02-18",
+    "quantidade": 4,
+    "latitude": -19.891070067991524,
+    "longitude": -43.99864119187662
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 20,
+    "latitude": -19.92678654702049,
+    "longitude": -43.9335147634549
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 20,
+    "latitude": -19.926651756094177,
+    "longitude": -43.93439177459228
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 20,
+    "latitude": -19.921300430573,
+    "longitude": -43.93641089983817
+  },
+  {
+    "data_inicio": "2026-02-21",
+    "data_final": "2026-02-21",
+    "quantidade": 20,
+    "latitude": -19.919693117154722,
+    "longitude": -43.93874337679178
+  }
+]
