@@ -1,32 +1,25 @@
-const fs = require("fs");
-const path = require("path");
-
-// Função auxiliar para ler os arquivos JSON
-const readJson = (fileName) => {
-  try {
-    // process.cwd() pega a raiz do projeto na Vercel
-    const filePath = path.join(process.cwd(), "src", "scripts", fileName);
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (error) {
-    console.error(`Erro ao ler ${fileName}:`, error);
-    return []; // Retorna array vazio para não derrubar o servidor com erro 500
-  }
-};
+// --- IMPORTAÇÕES DIRETAS (A MÁGICA DA VERCEL) ---
+// Ao usar require, a Vercel garante que esses arquivos existam no servidor
+const blocosData = require("../scripts/BlocoRefinado.json");
+const banheirosData = require("../scripts/BanheiroRefinado.json");
+const hospitaisData = require("../scripts/HospitalRefinado.json");
 
 // Lógica para os Blocos
 exports.getBlocos = (req, res) => {
   try {
-    const blocos = readJson("BlocoRefinado.json");
+    // Usamos os dados carregados lá em cima
     const { bairro } = req.query;
 
     if (bairro) {
-      const filtrados = blocos.filter((b) =>
+      const filtrados = blocosData.filter((b) =>
         b.bairro.toLowerCase().includes(bairro.toLowerCase()),
       );
       return res.json(filtrados);
     }
-    res.json(blocos);
+
+    res.json(blocosData);
   } catch (error) {
+    console.error("Erro blocos:", error);
     res.status(500).json({ error: "Erro ao ler blocos" });
   }
 };
@@ -34,9 +27,9 @@ exports.getBlocos = (req, res) => {
 // Lógica para os Banheiros
 exports.getBanheiros = (req, res) => {
   try {
-    const banheiros = readJson("BanheiroRefinado.json");
-    res.json(banheiros);
+    res.json(banheirosData);
   } catch (error) {
+    console.error("Erro banheiros:", error);
     res.status(500).json({ error: "Erro ao ler banheiros" });
   }
 };
@@ -44,9 +37,9 @@ exports.getBanheiros = (req, res) => {
 // Lógica para os Hospitais
 exports.getHospitais = (req, res) => {
   try {
-    const hospitais = readJson("HospitalRefinado.json");
-    res.json(hospitais);
+    res.json(hospitaisData);
   } catch (error) {
+    console.error("Erro hospitais:", error);
     res.status(500).json({ error: "Erro ao ler hospitais" });
   }
 };

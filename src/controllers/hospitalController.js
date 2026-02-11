@@ -1,20 +1,16 @@
-const fs = require("fs");
-const path = require("path");
 const { calculateDistance } = require("../utils/geoUtils");
 
-const readJson = (fileName) => {
-  try {
-    // process.cwd() pega a raiz do projeto na Vercel
-    const filePath = path.join(process.cwd(), "src", "scripts", fileName);
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (error) {
-    console.error(`Erro ao ler ${fileName}:`, error);
-    return []; // Retorna array vazio para não derrubar o servidor com erro 500
-  }
-};
+// --- AQUI ESTÁ A CORREÇÃO ---
+// Importando direto, a Vercel garante que o arquivo vai pro ar.
+// Adeus erro 500!
+const hospitaisData = require("../scripts/HospitalRefinado.json");
+
 exports.getHospitais = (req, res) => {
   try {
-    let hospitais = readJson("HospitalRefinado.json");
+    // Criamos uma cópia para filtrar sem alterar o original
+    let hospitais = [...hospitaisData];
+
+    // Pegamos os parâmetros da URL
     const { categoria, bairro, busca, lat, lng, raio } = req.query;
 
     // 1. Filtro de Proximidade (Geolocalização)
